@@ -14,10 +14,10 @@ class Dog
   def self.clear_all
     @@all.clear()
   end
-  
+  }
   def self.print_all
-    print_all.each {|name| name.each}
-    puts 
+    print_all.each {|name| puts 
+    
   en
     
 end
